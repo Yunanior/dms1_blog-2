@@ -1,7 +1,7 @@
 ---
 title: Digital Design Project 2
-published_at: 2022-11-04
-snippet: Yuna
+published_at: 2024-04-10
+snippet: Yuna Chen
 disable_html_sanitization: true
 allow_math: true
 ---
