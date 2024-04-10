@@ -1,7 +1,7 @@
 ---
-title: This is a blog post!
+title: Digital Design Project 2
 published_at: 2022-11-04
-snippet: An example of a blog post.
+snippet: Yuna
 disable_html_sanitization: true
 allow_math: true
 ---
