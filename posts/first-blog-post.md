@@ -6,7 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-# This is h1
+#  Black Square Activity
 
 ![a drippy lemon](logo.svg)
 
