@@ -8,7 +8,8 @@ allow_math: true
 
 #  Black Square Activity
 
-![a drippy lemon](logo.svg)
+![black suare](/static/w04s01/blacksquares.jpg)
+
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
