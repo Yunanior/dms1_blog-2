@@ -8,7 +8,7 @@ allow_math: true
 
 #  Black Square Activity
 
-![black suare](/static/w04s01/blacksquares.jpg)
+![black square](/w04s01/blacksquares.jpg)
 
 
 ^ images are written like this: `![description](file_path/file_name.png)`
