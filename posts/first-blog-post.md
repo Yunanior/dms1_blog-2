@@ -10,8 +10,7 @@ allow_math: true
 
 ![black square](/w04s01/blacksquares.png)
 
-
-^ images are written like this: `![description](file_path/file_name.png)`
+ 
 
 ## This is h2
 
