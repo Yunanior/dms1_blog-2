@@ -28,7 +28,7 @@ Hyperlinks can be written like this: `[text](https://URL)`
 
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
-## Maths:
+## Project Concept
 
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
 
