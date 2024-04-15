@@ -10,6 +10,11 @@ allow_math: true
 
 ![black square](/w04s01/blacksquares.png)
 
+First, about the training, it helped me a lot to get familiar with the Adobe Illustrator functions. Especially, the lesson about selection tools save  a lot of time for me to edit and manage these black squares. In addition, the lesson about shape and line tools give me more thoughts about how to placing and combine four black squares. 
+
+![Brainstorm](/w04s01/Brainstorm.png)
+
+
  
 
 ## Thumbnail Sketches Practice
