@@ -12,8 +12,7 @@ allow_math: true
 
  
 
-## This is h2
-
+## Thumbnail Sketches Practice
 *This is italic.*[^1]
 
 [^1]: This is a footnote, *which can also be italic*.
