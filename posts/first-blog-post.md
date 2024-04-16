@@ -19,7 +19,7 @@ First, about the training, it helped me a lot to get familiar with the Adobe Ill
 
 ## Thumbnail Sketches Practice
 
-![Sketches](/static/w04s01/20quick%20sketches.png)
+![Sketches](/w04s01/20quick%20sketches.png)
 
 
 
