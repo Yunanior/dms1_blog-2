@@ -18,7 +18,10 @@ First, about the training, it helped me a lot to get familiar with the Adobe Ill
  
 
 ## Thumbnail Sketches Practice
-*This is italic.*[^1]
+
+![Sketches](/static/w04s01/20quick%20sketches.png)
+
+
 
 [^1]: This is a footnote, *which can also be italic*.
 
@@ -29,6 +32,8 @@ Hyperlinks can be written like this: `[text](https://URL)`
 You can find a markdown cheat-sheet [here](https://www.markdownguide.org/cheat-sheet/).
 
 ## Project Concept
+
+
 
 ... which can be written inline, like this: $\{ x, y, z \} \in \N$
 
