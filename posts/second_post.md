@@ -16,8 +16,8 @@ allow_math: true
 
 ## Pen tool excercise
 
-
-
+![pen tool01](/w04s02/pen%20tool%20exersise%20three.png)
+![pen tool02](/w04s02/Pen%20tool%204.png)
 ## Tracing Activity
 
 ![pen tool](/w04s02/edhopper_lighthousehill%20[Recovered].png)
