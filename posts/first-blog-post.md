@@ -1,7 +1,7 @@
 ---
-title: Digital Design Project 2
+title: Week 01
 published_at: 2024-04-10
-snippet: Yuna Chen
+snippet: 
 disable_html_sanitization: true
 allow_math: true
 ---
